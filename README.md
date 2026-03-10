@@ -63,13 +63,19 @@ Implemented React-Toastify for user-friendly notifications.
 **Application Workflow**
 
 🔹 User enters a text prompt in the application.
+
 🔹 The React frontend sends a request to the Node.js backend.
+
 🔹 The backend communicates with the ClipDrop API to generate the image.
+
 🔹 The generated image is returned to the frontend.
+
 🔹 Image data and user information are stored in MongoDB.
+
 🔹 Users can view their generated images and history.
 
 **Project Structure**
+
 Imagify
 │
 ├── client
@@ -90,6 +96,7 @@ Imagify
 └── README.md
 
 **Installation and Setup**
+
 **1.Clone the repository**
 git clone https://github.com/yourusername/imagify.git
 
