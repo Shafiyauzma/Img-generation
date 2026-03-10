@@ -76,6 +76,7 @@ Implemented React-Toastify for user-friendly notifications.
 
 **Project Structure**
 
+```
 Imagify
 │
 ├── client
@@ -94,6 +95,7 @@ Imagify
 │   └── config
 │
 └── README.md
+```
 
 **Installation and Setup**
 
