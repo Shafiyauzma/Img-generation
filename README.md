@@ -29,29 +29,36 @@ Enhanced user interaction using Framer Motion animations.
 🔹 **Real-Time Notifications**
 Implemented React-Toastify for user-friendly notifications.
 
-🛠 **Tech Stack**
+**Tech Stack**
 **Frontend Technologies**
 
-🔹 ReactJS
-🔹 Tailwind CSS
-🔹 Framer Motion
-🔹 React Router DOM
-🔹 React Toastify
-🔹 Context API
+🔹ReactJS
+
+🔹Tailwind CSS
+
+🔹Framer Motion
+
+🔹React Router DOM
+
+🔹React Toastify
+
+🔹Context API
 
 **Backend Technologies**
 
-🔹 Node.js
-🔹 Express.js
+🔹Node.js
 
-**Database**
+🔹Express.js
 
-🔹 MongoDB
+🔹Database
+
+🔹MongoDB
 
 **API Integrations**
 
-🔹 ClipDrop API – AI Image Generation
-🔹 Razorpay – Payment Processing
+🔹ClipDrop API – AI Image Generation
+
+🔹Razorpay – Payment Processing
 
 **Application Workflow**
 🔹 User enters a text prompt in the application.
@@ -65,19 +72,19 @@ Implemented React-Toastify for user-friendly notifications.
 Imagify
 │
 ├── client
-│     ├── public
-│     └── src
-│         ├── assets
-│         ├── components
-│         ├── context
-│         └── pages
+│   ├── public
+│   └── src
+│       ├── assets
+│       ├── components
+│       ├── context
+│       └── pages
 │
 ├── server
-│     ├── controllers
-│     ├── routes
-│     ├── models
-│     ├── middleware
-│     └── config
+│   ├── controllers
+│   ├── routes
+│   ├── models
+│   ├── middleware
+│   └── config
 │
 └── README.md
 
