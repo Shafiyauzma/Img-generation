@@ -61,6 +61,7 @@ Implemented React-Toastify for user-friendly notifications.
 🔹Razorpay – Payment Processing
 
 **Application Workflow**
+
 🔹 User enters a text prompt in the application.
 🔹 The React frontend sends a request to the Node.js backend.
 🔹 The backend communicates with the ClipDrop API to generate the image.
