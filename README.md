@@ -98,41 +98,58 @@ Imagify
 **Installation and Setup**
 
 **1.Clone the repository**
+
 git clone https://github.com/yourusername/imagify.git
 
 **2.Navigate to the project folder**
+
 cd imagify
 
 **3.Install backend dependencies**
+
 cd server
 npm install
 
 **4.Install frontend dependencies**
+
 cd client
 npm install
 
 **5.Environment Variables**
+
 Create a .env file inside the server folder and add:
 
 MONGO_URI=your_mongodb_connection
+
 CLIPDROP_API_KEY=your_clipdrop_api_key
+
 RAZORPAY_KEY_ID=your_key
+
 RAZORPAY_SECRET=your_secret
+
 JWT_SECRET=your_secret
 
 **6.Run the Backend Server**
+
 npm run server
 
 **7.Run the Frontend Application**
+
 npm run dev
 
 
 **Learning Outcomes**
+
 🔹 Built a full-stack AI-powered web application.
+
 🔹 Integrated AI APIs with web applications.
+
 🔹 Implemented secure payment gateway integration.
+
 🔹 Managed application state using React Context API.
+
 🔹 Designed responsive user interfaces using Tailwind CSS.
+
 🔹 Developed RESTful APIs using Node.js and Express.
 
 
