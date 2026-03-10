@@ -154,5 +154,7 @@ npm run dev
 
 
 **Author**
+
 Shafiya Uzama Vadulapalli
+
 Full Stack Developer
